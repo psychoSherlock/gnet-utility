@@ -1,6 +1,6 @@
 # GNet Utility
 
-A Slop coded I had on the middle of my semester exam. I dont expect anyone to use it but if anyone does like it do let me know and make my day.
+A Slop coded idea I had on the middle of my semester exam. I dont expect anyone to use it but if anyone does like it do let me know and make my day.
 
 A small, draggable network widget for your GNOME desktop. It sits on the wallpaper and shows what your connection looks like right now: Wi-Fi, IPs, rough location, proxy and VPN, including Tailscale.
 
