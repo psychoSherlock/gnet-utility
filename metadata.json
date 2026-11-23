@@ -1,0 +1,9 @@
+{
+  "name": "GNet Utility",
+  "description": "A draggable desktop widget showing your Wi-Fi, local and public IP, approximate location, proxy and VPN (including Tailscale) status.",
+  "uuid": "gnet-utility@psychosherlock",
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "settings-schema": "org.gnome.shell.extensions.gnet-utility",
+  "version": 1,
+  "version-name": "1.0.0"
+}
